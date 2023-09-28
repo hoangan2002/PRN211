@@ -1,0 +1,14 @@
+D:\.NET Core\Slot7\Lambdas\Lambdas\bin\Debug\net6.0\Lambdas.exe
+D:\.NET Core\Slot7\Lambdas\Lambdas\bin\Debug\net6.0\Lambdas.deps.json
+D:\.NET Core\Slot7\Lambdas\Lambdas\bin\Debug\net6.0\Lambdas.runtimeconfig.json
+D:\.NET Core\Slot7\Lambdas\Lambdas\bin\Debug\net6.0\Lambdas.dll
+D:\.NET Core\Slot7\Lambdas\Lambdas\bin\Debug\net6.0\Lambdas.pdb
+D:\.NET Core\Slot7\Lambdas\Lambdas\obj\Debug\net6.0\Lambdas.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Core\Slot7\Lambdas\Lambdas\obj\Debug\net6.0\Lambdas.AssemblyInfoInputs.cache
+D:\.NET Core\Slot7\Lambdas\Lambdas\obj\Debug\net6.0\Lambdas.AssemblyInfo.cs
+D:\.NET Core\Slot7\Lambdas\Lambdas\obj\Debug\net6.0\Lambdas.csproj.CoreCompileInputs.cache
+D:\.NET Core\Slot7\Lambdas\Lambdas\obj\Debug\net6.0\Lambdas.dll
+D:\.NET Core\Slot7\Lambdas\Lambdas\obj\Debug\net6.0\refint\Lambdas.dll
+D:\.NET Core\Slot7\Lambdas\Lambdas\obj\Debug\net6.0\Lambdas.pdb
+D:\.NET Core\Slot7\Lambdas\Lambdas\obj\Debug\net6.0\Lambdas.genruntimeconfig.cache
+D:\.NET Core\Slot7\Lambdas\Lambdas\obj\Debug\net6.0\ref\Lambdas.dll

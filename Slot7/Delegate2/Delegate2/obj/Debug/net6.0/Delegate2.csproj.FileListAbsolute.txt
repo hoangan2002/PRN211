@@ -1,0 +1,14 @@
+D:\.NET Core\Slot7\Delegate2\Delegate2\bin\Debug\net6.0\Delegate2.exe
+D:\.NET Core\Slot7\Delegate2\Delegate2\bin\Debug\net6.0\Delegate2.deps.json
+D:\.NET Core\Slot7\Delegate2\Delegate2\bin\Debug\net6.0\Delegate2.runtimeconfig.json
+D:\.NET Core\Slot7\Delegate2\Delegate2\bin\Debug\net6.0\Delegate2.dll
+D:\.NET Core\Slot7\Delegate2\Delegate2\bin\Debug\net6.0\Delegate2.pdb
+D:\.NET Core\Slot7\Delegate2\Delegate2\obj\Debug\net6.0\Delegate2.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Core\Slot7\Delegate2\Delegate2\obj\Debug\net6.0\Delegate2.AssemblyInfoInputs.cache
+D:\.NET Core\Slot7\Delegate2\Delegate2\obj\Debug\net6.0\Delegate2.AssemblyInfo.cs
+D:\.NET Core\Slot7\Delegate2\Delegate2\obj\Debug\net6.0\Delegate2.csproj.CoreCompileInputs.cache
+D:\.NET Core\Slot7\Delegate2\Delegate2\obj\Debug\net6.0\Delegate2.dll
+D:\.NET Core\Slot7\Delegate2\Delegate2\obj\Debug\net6.0\refint\Delegate2.dll
+D:\.NET Core\Slot7\Delegate2\Delegate2\obj\Debug\net6.0\Delegate2.pdb
+D:\.NET Core\Slot7\Delegate2\Delegate2\obj\Debug\net6.0\Delegate2.genruntimeconfig.cache
+D:\.NET Core\Slot7\Delegate2\Delegate2\obj\Debug\net6.0\ref\Delegate2.dll

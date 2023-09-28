@@ -1,0 +1,14 @@
+D:\.NET Core\Slot7\Delegate3\Delegate3\bin\Debug\net6.0\Delegate3.exe
+D:\.NET Core\Slot7\Delegate3\Delegate3\bin\Debug\net6.0\Delegate3.deps.json
+D:\.NET Core\Slot7\Delegate3\Delegate3\bin\Debug\net6.0\Delegate3.runtimeconfig.json
+D:\.NET Core\Slot7\Delegate3\Delegate3\bin\Debug\net6.0\Delegate3.dll
+D:\.NET Core\Slot7\Delegate3\Delegate3\bin\Debug\net6.0\Delegate3.pdb
+D:\.NET Core\Slot7\Delegate3\Delegate3\obj\Debug\net6.0\Delegate3.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Core\Slot7\Delegate3\Delegate3\obj\Debug\net6.0\Delegate3.AssemblyInfoInputs.cache
+D:\.NET Core\Slot7\Delegate3\Delegate3\obj\Debug\net6.0\Delegate3.AssemblyInfo.cs
+D:\.NET Core\Slot7\Delegate3\Delegate3\obj\Debug\net6.0\Delegate3.csproj.CoreCompileInputs.cache
+D:\.NET Core\Slot7\Delegate3\Delegate3\obj\Debug\net6.0\Delegate3.dll
+D:\.NET Core\Slot7\Delegate3\Delegate3\obj\Debug\net6.0\refint\Delegate3.dll
+D:\.NET Core\Slot7\Delegate3\Delegate3\obj\Debug\net6.0\Delegate3.pdb
+D:\.NET Core\Slot7\Delegate3\Delegate3\obj\Debug\net6.0\Delegate3.genruntimeconfig.cache
+D:\.NET Core\Slot7\Delegate3\Delegate3\obj\Debug\net6.0\ref\Delegate3.dll
