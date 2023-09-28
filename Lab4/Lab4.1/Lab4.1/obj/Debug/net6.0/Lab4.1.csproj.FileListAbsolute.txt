@@ -1,0 +1,14 @@
+D:\.NET Core\Slot7\Lab4.1\Lab4.1\bin\Debug\net6.0\Lab4.1.exe
+D:\.NET Core\Slot7\Lab4.1\Lab4.1\bin\Debug\net6.0\Lab4.1.deps.json
+D:\.NET Core\Slot7\Lab4.1\Lab4.1\bin\Debug\net6.0\Lab4.1.runtimeconfig.json
+D:\.NET Core\Slot7\Lab4.1\Lab4.1\bin\Debug\net6.0\Lab4.1.dll
+D:\.NET Core\Slot7\Lab4.1\Lab4.1\bin\Debug\net6.0\Lab4.1.pdb
+D:\.NET Core\Slot7\Lab4.1\Lab4.1\obj\Debug\net6.0\Lab4.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Core\Slot7\Lab4.1\Lab4.1\obj\Debug\net6.0\Lab4.1.AssemblyInfoInputs.cache
+D:\.NET Core\Slot7\Lab4.1\Lab4.1\obj\Debug\net6.0\Lab4.1.AssemblyInfo.cs
+D:\.NET Core\Slot7\Lab4.1\Lab4.1\obj\Debug\net6.0\Lab4.1.csproj.CoreCompileInputs.cache
+D:\.NET Core\Slot7\Lab4.1\Lab4.1\obj\Debug\net6.0\Lab4.1.dll
+D:\.NET Core\Slot7\Lab4.1\Lab4.1\obj\Debug\net6.0\refint\Lab4.1.dll
+D:\.NET Core\Slot7\Lab4.1\Lab4.1\obj\Debug\net6.0\Lab4.1.pdb
+D:\.NET Core\Slot7\Lab4.1\Lab4.1\obj\Debug\net6.0\Lab4.1.genruntimeconfig.cache
+D:\.NET Core\Slot7\Lab4.1\Lab4.1\obj\Debug\net6.0\ref\Lab4.1.dll
