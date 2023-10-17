@@ -1,0 +1,5 @@
+D:\.NET Core\DemoDataProviderFactory\DemoDataProviderFactory\obj\Debug\net6.0\DemoDataProviderFactory.csproj.AssemblyReference.cache
+D:\.NET Core\DemoDataProviderFactory\DemoDataProviderFactory\obj\Debug\net6.0\DemoDataProviderFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Core\DemoDataProviderFactory\DemoDataProviderFactory\obj\Debug\net6.0\DemoDataProviderFactory.AssemblyInfoInputs.cache
+D:\.NET Core\DemoDataProviderFactory\DemoDataProviderFactory\obj\Debug\net6.0\DemoDataProviderFactory.AssemblyInfo.cs
+D:\.NET Core\DemoDataProviderFactory\DemoDataProviderFactory\obj\Debug\net6.0\DemoDataProviderFactory.csproj.CoreCompileInputs.cache
